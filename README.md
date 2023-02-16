@@ -30,7 +30,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Apache Kafka.
 
 [nest-api](https://github.com/jamangueira7/imersao-full-cycle-api-nestjs)
+
 [Simulador](https://github.com/jamangueira7/imersao-full-cycle-simulator-go)
+
+[frontend](https://github.com/jamangueira7/imersao-full-cycle-react-ts)
 
 ## 🚀 Como Rodar
 
